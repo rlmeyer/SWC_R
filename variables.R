@@ -1,4 +1,6 @@
 #This is the document where I learn introductory R
+dis10<-rnorm(10)
+
 #I did not save my variables.R file yesterday whoops
 #This is my new document to make changes to for github practice.
 #Here are some random things:
