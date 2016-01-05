@@ -1,4 +1,5 @@
 #This is the document where I learn introductory R
+#Jan 5th, 2016
 dis10<-rnorm(10)
 
 #I did not save my variables.R file yesterday whoops
